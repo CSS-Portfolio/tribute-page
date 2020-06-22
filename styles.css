@@ -126,6 +126,11 @@ cite {
   border-bottom-right-radius: 10px;
 }
 
+.timeline__title h2 {
+  text-align: center;
+  font-weight: bold;
+}
+
 ul li {
   position: relative;
 }
