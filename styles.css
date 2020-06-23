@@ -3,14 +3,14 @@
 }
 
 html {
-  padding: 0;
-  margin: 0;
   zoom: 0.8;
 }
 
 body {
   background-color: #fff;
   font-family: "Muli", sans-serif;
+  padding: 0;
+  margin: 0;
 }
 
 h1 {
