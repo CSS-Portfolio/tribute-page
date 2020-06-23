@@ -47,7 +47,7 @@ h2 {
   padding: 20px;
 }
 
-/* .card::before {
+.card::before {
   content: "";
   position: absolute;
   top: 0;
@@ -73,7 +73,7 @@ h2 {
   height: 100%;
   background-color: #e2e2e2;
   opacity: 1;
-} */
+}
 
 .card__title,
 .card__details {
@@ -153,16 +153,16 @@ li {
   position: relative;
 }
 
-li:last-child:before {
-  /*With this you hide the last-child li line*/
-  content: "";
+/* li:last-child:before { */
+/*With this you hide the last-child li line*/
+/* content: "";
   position: absolute;
   left: -2px;
   top: 0;
   width: 3px;
   height: 100%;
   background-color: #dadada;
-}
+} */
 
 li::after {
   content: "";
